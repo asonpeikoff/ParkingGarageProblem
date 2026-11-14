@@ -4,7 +4,7 @@
 package pg;
 import java.util.*;
 /**
- * @author Jason Miller
+ * @author Ason Peikoff
  *
  */
 public class ParkingGarage {
